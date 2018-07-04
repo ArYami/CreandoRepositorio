@@ -19,8 +19,11 @@ namespace Tarea._01
             novia = Convert.ToInt32(Console.ReadLine());
             cal = novio - novia;
             Console.WriteLine("LA DIFERENCIA DE EDAD ES DE: {0}", cal);
-
-
+            /*
+             * a
+             * a
+             * a
+             * */
             Console.Read();
         }
         

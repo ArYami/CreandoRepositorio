@@ -1,0 +1,7 @@
+C:\Users\Yami\source\repos\Tarea.01\Tarea.01\obj\Debug\Tarea.01.csprojResolveAssemblyReference.cache
+C:\Users\Yami\source\repos\Tarea.01\Tarea.01\obj\Debug\Tarea.01.csproj.CoreCompileInputs.cache
+C:\Users\Yami\source\repos\Tarea.01\Tarea.01\bin\Debug\Tarea.01.exe.config
+C:\Users\Yami\source\repos\Tarea.01\Tarea.01\bin\Debug\Tarea.01.exe
+C:\Users\Yami\source\repos\Tarea.01\Tarea.01\bin\Debug\Tarea.01.pdb
+C:\Users\Yami\source\repos\Tarea.01\Tarea.01\obj\Debug\Tarea.01.exe
+C:\Users\Yami\source\repos\Tarea.01\Tarea.01\obj\Debug\Tarea.01.pdb
